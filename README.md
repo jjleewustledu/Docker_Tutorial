@@ -5,9 +5,11 @@ Companion code to [How Docker Can Help You Become A More Effective Data Scientis
 
 ### Contents:
 
-1. **CentOS Tutorial:**  These are files based on (forked from) the [Medium](https://medium.com/@hamelhusain/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5) article that introduce Docker.  
+0. **CentOS Tutorial:**  These are files that JJL used to build a minimal container with CentOS latest and python2.
 
-2. **CUDA Tutorial:**  These are files that JJL used to build a Docker container for CUDA computations distinct from deep learning.  This is using [Nvidia-Docker](https://github.com/NVIDIA/nvidia-docker).
+1. **Anaconda Tutorial:**  These are files based on (forked from) the [Medium](https://medium.com/@hamelhusain/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5) article that introduce Docker.  
+
+2. **CUDA Tutorial:**  These are files that JJL used to build a Docker container for CUDA computations distinct from deep learning.  They are using [Nvidia-Docker](https://github.com/NVIDIA/nvidia-docker).
 
 ### Contributing
 
